@@ -1,0 +1,7 @@
+{
+  "id": "vpterostop",
+  "name": "VPteroStop",
+  "version": "1.0",
+  "main": "com.itzminey.vpterostop.VpteroStop",
+  "authors": ["itzMiney"]
+}
